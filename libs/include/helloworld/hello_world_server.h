@@ -1,7 +1,5 @@
 #pragma once
 
-#include "agrpc/grpc_context.hpp"
-
 #include <memory>
 #include <thread>
 
